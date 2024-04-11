@@ -4,8 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log('Print this message' + ' extra message')
+console.log('next message', "\\end message\"");
+var message = 'Hello World!';
+console.log('goodbye'.toUpperCase)
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
